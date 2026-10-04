@@ -1,0 +1,81 @@
+env,variant,seed,mean_return
+reward,Vanilla,0,505.1
+reward,Vanilla,1,482.9
+reward,Vanilla,2,488.1
+reward,Vanilla,3,502.4
+reward,Vanilla,4,13.7
+reward,5 rollouts,0,494.2
+reward,5 rollouts,1,493.8
+reward,5 rollouts,2,489.4
+reward,5 rollouts,3,481.7
+reward,5 rollouts,4,503.3
+reward,Baseline,0,470.2
+reward,Baseline,1,366.4
+reward,Baseline,2,469.5
+reward,Baseline,3,594.4
+reward,Baseline,4,479.7
+reward,Advantage,0,620.9
+reward,Advantage,1,627.7
+reward,Advantage,2,778.7
+reward,Advantage,3,742.9
+reward,Advantage,4,701.5
+transition,Vanilla,0,80.9
+transition,Vanilla,1,207.5
+transition,Vanilla,2,268.3
+transition,Vanilla,3,14.8
+transition,Vanilla,4,435.9
+transition,5 rollouts,0,143.6
+transition,5 rollouts,1,285.9
+transition,5 rollouts,2,305.6
+transition,5 rollouts,3,2.7
+transition,5 rollouts,4,444.6
+transition,Baseline,0,47.1
+transition,Baseline,1,374.8
+transition,Baseline,2,351.6
+transition,Baseline,3,36.6
+transition,Baseline,4,15.4
+transition,Advantage,0,285.2
+transition,Advantage,1,377.9
+transition,Advantage,2,330.2
+transition,Advantage,3,431.1
+transition,Advantage,4,420.1
+obs,Vanilla,0,557.2
+obs,Vanilla,1,363.1
+obs,Vanilla,2,381.3
+obs,Vanilla,3,19.5
+obs,Vanilla,4,513.9
+obs,5 rollouts,0,526.2
+obs,5 rollouts,1,558.5
+obs,5 rollouts,2,535.3
+obs,5 rollouts,3,40.4
+obs,5 rollouts,4,542.8
+obs,Baseline,0,515.0
+obs,Baseline,1,526.0
+obs,Baseline,2,548.9
+obs,Baseline,3,208.2
+obs,Baseline,4,431.6
+obs,Advantage,0,483.1
+obs,Advantage,1,460.6
+obs,Advantage,2,421.7
+obs,Advantage,3,477.9
+obs,Advantage,4,538.5
+start,Vanilla,0,638.1
+start,Vanilla,1,738.2
+start,Vanilla,2,737.3
+start,Vanilla,3,741.1
+start,Vanilla,4,759.6
+start,5 rollouts,0,500.8
+start,5 rollouts,1,716.0
+start,5 rollouts,2,691.2
+start,5 rollouts,3,675.7
+start,5 rollouts,4,776.6
+start,Baseline,0,694.4
+start,Baseline,1,748.2
+start,Baseline,2,703.2
+start,Baseline,3,764.5
+start,Baseline,4,369.0
+start,Advantage,0,729.5
+start,Advantage,1,752.2
+start,Advantage,2,709.3
+start,Advantage,3,191.4
+start,Advantage,4,183.4
