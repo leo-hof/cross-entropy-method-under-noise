@@ -1,6 +1,6 @@
 # Cross-Entropy Method under noise: adapting CEM to stochastic environments
 
-> Individual course project · *IE540 Dynamic Programming and Reinforcement Learning* · KAIST (exchange semester), Spring 2025 · Python, PyTorch, Gymnasium, NumPy
+> Individual course project · *IE540 Dynamic Programming and Reinforcement Learning* · KAIST (exchange year), Spring 2025 · Python, PyTorch, Gymnasium, NumPy
 
 The Cross-Entropy Method (CEM) is usually presented as an efficient policy-search method for deterministic environments. In this project, I wanted to see how it handles stochastic environments, where the return of a policy varies from one episode to the next.
 
